@@ -1,5 +1,19 @@
 **Spanish:**
 
+**Tabla de Diferencias:**
+
+| Característica              | Premium                 | Gratis                   |
+|-----------------------------|-------------------------|--------------------------|
+| Sin Anuncios                | ✔️                      | ❌                      |
+| Soporte 24x7                | ✔️                      | ❌                      |
+| Verificado en @KxStaff      | ✔️                      | ✔️ (Gratis)             |
+| No Requiere Etiqueta Com.   | ✔️                      | ❌                      |
+| Acceso de por Vida a VIP    | ✔️ (Dependiente del paquete) | ❌ (7 Días)              |
+
+---
+
+**Spanish:**
+
 🌟 **Beneficios Premium**
 - Experiencia sin anuncios.
 - Soporte premium 24x7.
