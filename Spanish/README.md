@@ -1,5 +1,16 @@
 **Spanish:**
 
+- `/free`: ¡Disfruta de una prueba de 7 días!
+- `/buy_premium`: Mejora tu experiencia, conviértete en un VIP Premium.
+- `/about`: Obtén más información sobre este bot.
+- `/support`: Contacta para obtener soporte o consultas publicitarias.
+- `/feedback`: Comparte tus comentarios sobre este bot.
+- `/language`: Ajusta las preferencias de idioma para traducción.
+
+---
+
+**Spanish:**
+
 **Tabla de Diferencias:**
 
 | Característica              | Premium                 | Gratis                   |
