@@ -1,3 +1,15 @@
+**Difference Table:**
+
+| Feature                     | Premium                 | Free                     |
+|-----------------------------|-------------------------|--------------------------|
+| Ads Free                    | ✔️                      | ❌                      |
+| 24x7 Support                | ✔️                      | ❌                      |
+| Verified Under @KxStaff     | ✔️                      | ✔️ (Free)               |
+| Community Tag Not Required  | ✔️                      | ❌                      |
+| Lifetime VIP Content Access | ✔️ (Package-dependent)  | ❌ (7 Days)              |
+
+---
+
 **English:**
 
 🌟 **Premium Benefits**
