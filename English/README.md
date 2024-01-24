@@ -1,3 +1,14 @@
+**English:**
+
+- `/free`: Enjoy a 7-day trial!
+- `/buy_premium`: Elevate your experience, become a Premium VIP.
+- `/about`: Learn more about this bot.
+- `/support`: Reach out for support or advertising inquiries.
+- `/feedback`: Share your feedback about this bot.
+- `/language`: Adjust language preferences for translation.
+
+---
+
 **Difference Table:**
 
 | Feature                     | Premium                 | Free                     |
