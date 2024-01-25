@@ -1,39 +1,71 @@
-**Spanish:**
+<div align="center">
+  
+  [<img width="300" alt="image" src="https://telegra.ph/file/274d3e2fba5c8c0394164.jpg">](https://telegram.me/MaximXRobot) 
+  
+**SUSCRIPCIÓN ORO** </div>
 
-- `/free`: ¡Disfruta de una prueba de 7 días!
-- `/buy_premium`: Mejora tu experiencia, conviértete en un VIP Premium.
-- `/about`: Obtén más información sobre este bot.
-- `/support`: Contacta para obtener soporte o consultas publicitarias.
-- `/feedback`: Comparte tus comentarios sobre este bot.
-- `/language`: Ajusta las preferencias de idioma para traducción.
+▷`【Características】`
+- `Anuncios:` Sin experiencia sin anuncios.
+- `Soporte:` No se proporciona soporte.
+- `Requisitos:` Uso de la etiqueta de la comunidad requerido. T&C*
+- `Descarga:` Sin acceso a archivos HD.
+- `Contenido:` Clave proporcionada una vez a la semana. *(Restablecimiento después de 24 horas)*
+
+▷`【Beneficios adicionales】`
+- Verificado bajo [@KxStaff](https://telegram.me/KxStaff) con una Insignia de Oro.
+
+▷`【Precio】`:Política de no reembolso
+- 1 Semana: $2
+- 2 Semanas: $4
+- 3 Semanas: $6
+- 4 Semanas: $8
+ 
+---
+
+<div align="center">
+  
+  [<img width="300" alt="image" src="https://telegra.ph/file/5997635169576e5e371bc.jpg">](https://telegram.me/MaximXRobot)
+  
+**SUSCRIPCIÓN PLATINO** </div>
+
+▷`【Características】`
+- `Anuncios:` Menos anuncios.
+- `Soporte:` Soporte limitado.
+- `Requisitos:` Etiqueta de la comunidad *(Opcional).*
+- `Descarga:` Archivos HD proporcionados solo para fondos de pantalla subidos. *(Sin fondos de pantalla adicionales)*
+- `Contenido:` Clave proporcionada dos veces a la semana. *(Restablecimiento después de 48 horas)*
+
+▷`【Beneficios adicionales】`
+Verificado bajo [@KxStaff](https://telegram.me/KxStaff) con una Insignia de Platino.
+
+▷`【Precio】`:Reembolso disponible dentro de las 24 horas
+- 1 Semana: $7
+- 2 Semanas: $14
+- 3 Semanas: $21
+- 4 Semanas: $28
 
 ---
 
-**Spanish:**
+<div align="center">
+  
+  [<img width="300" alt="image" src="https://telegra.ph/file/9d2b6458c9d2955714a91.jpg">](https://telegram.me/MaximXRobot) 
 
-**Tabla de Diferencias:**
+**SUSCRIPCIÓN DIAMANTE** </div>
 
-| Característica              | Premium                 | Gratis                   |
-|-----------------------------|-------------------------|--------------------------|
-| Sin Anuncios                | ✔️                      | ❌                      |
-| Soporte 24x7                | ✔️                      | ❌                      |
-| Verificado en @KxStaff      | ✔️                      | ✔️ (Gratis)             |
-| No Requiere Etiqueta Com.   | ✔️                      | ❌                      |
-| Acceso de por Vida a VIP    | ✔️ (Dependiente del paquete) | ❌ (7 Días)              |
+▷`【Características】`
+- `Anuncios:` Disfruta de una experiencia sin anuncios.
+- `Soporte:` 24X7. *(Si un administrador está disponible para el soporte)*
+- `Requisitos:` No es necesario usar nuestra etiqueta de la comunidad.
+- `Descarga:` Acceso a archivos HD + Fondos de pantalla adicionales.
+- `Contenido:` Clave proporcionada tres veces a la semana. *(Sin restablecimiento de clave)*
 
----
+▷`【Beneficios adicionales】`
+Verificado bajo [@KxStaff](https://telegram.me/KxStaff) con una Insignia de Diamante.
 
-**Spanish:**
+▷`【Precio】`:Reembolso disponible dentro de las 48 horas
+- 1 Semana: $14
+- 2 Semanas: $21
+- 3 Semanas: $28
+- 4 Semanas: $35
 
-🌟 **Beneficios Premium**
-- Experiencia sin anuncios.
-- Soporte premium 24x7.
-- Verificación bajo @KxStaff con distintivo premium.
-- No es necesario utilizar nuestra etiqueta de comunidad.
-- Accede a contenido VIP de por vida (dependiendo de tu paquete).
-
-⭐ **Beneficios Gratuitos**
-- Soporte limitado.
-- Uso obligatorio de nuestra etiqueta de comunidad.
-- Verificado bajo @KxStaff con distintivo gratuito.
-- Disfruta del contenido VIP con una prueba de 7 días.
+*Si tienes alguna solicitud o sugerencia, no dudes en contactarme a través de [@MaximSupportxBot](https://telegram.me/MaximSupportxBot).*
