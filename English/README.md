@@ -2,7 +2,7 @@
   
   [<img width="300" alt="image" src="https://telegra.ph/file/274d3e2fba5c8c0394164.jpg">](https://telegram.me/MaximXRobot) 
   
-**Gold Subscription** </div>
+**GOLD SUBSCRIPTION** </div>
 
 ▷`【Features】`
 - `Ads:` No ad-free experience.
@@ -10,7 +10,6 @@
 - `Requirements:` Community tag usage required. T&C*
 - `Download:` No access to HD files.
 - `Content:` Key provided once a week. *(Reset after 24 hours)*
-- **💎 No entry to the Diamond Channel.**
 
 ▷`【Plus Benefits】`
 - Verified under [@KxStaff](https://telegram.me/KxStaff) with a Gold Badge.
@@ -27,7 +26,7 @@
   
   [<img width="300" alt="image" src="https://telegra.ph/file/5997635169576e5e371bc.jpg">](https://telegram.me/MaximXRobot)
   
-**Platinum Subscription** </div>
+**PLATINUM SUBSCRIPTION** </div>
 
 ▷`【Features】`
 - `Ads:` Fewer ads.
@@ -35,7 +34,6 @@
 - `Requirements:` Community Tag *(Optional).*
 - `Download:` HD files provided only for uploaded wallpapers. *(No extra wallpapers)*
 - `Content:` Key provided twice a week.*(Reset after 48 hours)*
-- **💎 No entry to the Diamond Channel.**
 
 ▷`【Plus Benefits】`
 Verified under [@KxStaff](https://telegram.me/KxStaff) with a Platinum Badge.
@@ -52,7 +50,7 @@ Verified under [@KxStaff](https://telegram.me/KxStaff) with a Platinum Badge.
   
   [<img width="300" alt="image" src="https://telegra.ph/file/9d2b6458c9d2955714a91.jpg">](https://telegram.me/MaximXRobot) 
 
-**Diamond Subscription** </div>
+**DIAMOND SUBSCRIPTION** </div>
 
 ▷`【Features】`
 - `Ads:` Enjoy an ad-free experience.
@@ -60,7 +58,6 @@ Verified under [@KxStaff](https://telegram.me/KxStaff) with a Platinum Badge.
 - `Requirements:` No need to use our community tag.
 - `Download:` Access to HD files + Extra wallpapers.
 - `Content:` Key provided three times a week. *(No key reset)*
-- 🥳 **Entry to the Diamond Channel** 🥳
 
 ▷`【Plus Benefits】`
 Verified under [@KxStaff](https://telegram.me/KxStaff) with a Diamond Badge.
